@@ -54,6 +54,13 @@ Lo más importante que aprendí en p5.js es que el orden importa muchísimo. Tam
 
 ![mi imagen](image.png)
 **RESULTADO FINAL.** (semifinal) debo alargar el rectangulo negro que esta en la posición de al frente.
+
+y en conclusión sste trabajo me sirvió mucho para darme cuenta de que programar no es solo tirar números, sino que también sirve para crear cosas visuales muy bonitas. Recrear esta obra me hizo fijarme en muchos detalles detalles de las cosas.
+
+También aprendí a usar translate() y rotate(), que al principio me costaron un montón, pero ahora entiendo que son básicos para poder "inclinar" las cosas sin que se desarmen.
+
+Al final, este ejercicio me ayudó a perderle el miedo a p5.js lo importante es ir probando y ajustando de a poco, Fue entretenido ver cómo algo que empezó como una página en blanco terminó siendo una obra de arte solo usando código.
+
 -----------
 
 **CODIGOS**
